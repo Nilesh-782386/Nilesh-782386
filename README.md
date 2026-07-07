@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Nilesh Khedkar Banner" width="100%">
-</p>
 
 <h1 align="center">Hi 👋, I'm Nilesh Khedkar</h1>
  
