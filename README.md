@@ -1,6 +1,10 @@
 <p align="center">
   <img src="./banner.png" alt="Nilesh Khedkar Banner" width="100%">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Java+Learner;Problem+Solver;DSA+Enthusiast;AI%2FML+Student" alt="Typing SVG" />
+</p>
+
 
 <br>
 <h1 align="center">Hi 👋, I'm Nilesh Khedkar</h1>
